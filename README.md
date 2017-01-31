@@ -6,7 +6,7 @@ Sample Site
 
 1. Lists are important
 2. I make lots of lists and never follow up on them
- *This is irrelevant but not as much as an elephant on Github
+ * This is irrelevant but not as much as an elephant on Github
  
  *Oh look at this type of list
  *that's cool
